@@ -40,5 +40,13 @@
 	</pre> -->
 	
 	<!--cours https://hackmd.io/iNktz6XzRyu7gGmKvPpXfQ?view-->
-	
+
+	<pre>
+		<?php
+		/*print phpInfo()*/
+		print_r($_SERVER)
+	?>	
+	</pre>
+		
+
 </html>
